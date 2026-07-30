@@ -23,6 +23,19 @@ Greenden is a responsive plant store website built using **HTML and Tailwind CSS
 * Three-page website structure
 * Mobile-friendly layout
 
+## 📁 Project Structure
+
+```text
+Greenden-tailwind/
+├── src/
+│   ├── index.html
+│   ├── product.html
+│   ├── contact.html
+│   └── ....
+├── package.json
+├── package-lock.json
+└── README.md
+node_modules/
 
 ## 🎯 Purpose
 This project was created to practice and improve my frontend development skills using **Tailwind CSS**. It helped me understand responsive layouts, utility-first CSS, page structure, and modern web design practices.
